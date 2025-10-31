@@ -3,7 +3,7 @@
 Proyecto en **Python** que detecta piedras de diferentes colores en una imagen, mapea sus coordenadas y genera una ruta óptima entre ellas.  
 Simula el sistema de visión de un rover explorador capaz de identificar objetos y planear su trayecto.
 
----
+
 
 ## Funcionalidades
 
@@ -12,7 +12,7 @@ Simula el sistema de visión de un rover explorador capaz de identificar objetos
 - Generación y visualización de una ruta óptima desde la entrada hasta la salida.  
 - Representación visual con contornos, etiquetas y trayectorias.
 
----
+
 
 ## Tecnologías utilizadas
 
@@ -21,7 +21,7 @@ Simula el sistema de visión de un rover explorador capaz de identificar objetos
 - NumPy  
 - Matplotlib  
 
----
+
 
 ## Ejecución
 
