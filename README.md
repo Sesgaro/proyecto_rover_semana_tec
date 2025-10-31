@@ -28,3 +28,6 @@ Simula el sistema de visión de un rover explorador capaz de identificar objetos
 1. Instalar las dependencias necesarias:
    ```bash
    pip install opencv-python numpy matplotlib
+2. Ejecutar el prigrama:
+   ```bash
+   python rover.py   
